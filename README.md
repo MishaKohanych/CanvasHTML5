@@ -6,4 +6,4 @@ Canvas HTML5
 
 --------------------------------------
 
-Demo: http://mishakokhanych.com/test/canvas/test.html
+Demo: http://htmlpreview.github.io/?https://github.com/MishaKohanych/CanvasHTML5/blob/master/canvas.html
